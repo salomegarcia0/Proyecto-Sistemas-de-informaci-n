@@ -1,5 +1,4 @@
-# Proyecto-Sistemas-de-informaci-n
+# Proyecto-Sistemas-de-informacion
 
-#Proyecto de Sistemas de Informacion - UNIMET
-#Pagina web de excursiones al Avila - WeHike 
-#Integrantes: Nicole Tolve, Salome Garcia , Andrea Rojas , Jose Fernandez , Alexander Nutzu 
+Pagina web de excursiones al Avila - 	WEHIKE 
+- Integrantes: Nicole Tolve, Salome Garcia , Andrea Rojas , Jose Fernandez , Alexander Nutzu. 
